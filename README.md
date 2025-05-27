@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanishanitturu" alt="thanishanitturu" /></a> </p>
 
-- 🔭 I’m currently working on **PIRS**
+- 🔭 I’m currently working as an full stack intern at Hitloop
 
 - 🌱 I’m currently learning **Machine learning,Deep learning,DSA**
 
